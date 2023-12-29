@@ -18,7 +18,7 @@ include("koneksi.php");
   <section class="bg-primary background">
     <nav class="navbar navbar-expand-lg fixed-top bg-body-tertiary">
       <div class="container-fluid container">
-        <a class="navbar-brand text-white" href="#">ONAV ARI TIKET kapal</a>
+        <a class="navbar-brand text-white" href="#">ONAV ARI</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
